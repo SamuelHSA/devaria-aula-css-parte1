@@ -1,1 +1,18 @@
 /* Estilos relacionados ao rodape */
+
+footer {
+    text-align: center;
+    border-top: 1px solid #f0f5ff;
+    padding: 10px;
+    width: 75%;
+    margin: auto;
+    text-transform: lowercase;
+}
+
+footer section span:first-child{
+    color: #25cbd3;
+}
+
+footer section span:last-child{
+    color: #5e49ff;
+}
